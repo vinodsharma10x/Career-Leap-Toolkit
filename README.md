@@ -8,10 +8,10 @@ The Career Leap Toolkit is here to support you on your career journey. Whether i
 
 ## What's Inside
 
-### Career Coaches Directory
+### [Career Coaches Directory](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20Career%20Coaches.md)
 A curated list of experienced career coaches who guide developers.
 
-### Developer-Focused YouTube Channels
+### [Developer-Focused YouTube Channels](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20YouTube%20Channels.md)
 Handpicked channels that offer valuable tech insights, tutorials, and career advice.
 
 ### Playbooks (coming soon)
