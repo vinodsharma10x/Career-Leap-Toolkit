@@ -43,7 +43,13 @@ Weekly Scorecard (as of date)
 
 - [%] project/goal/action/outcome
 - [%] project/goal/action/outcome
-- 🏆 List what I have accomplished this past week (5 min)
+
+### 🏆 List what I have accomplished this past week (5 min)
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
 ### 🧘‍♀️ Answer the following questions based on recent observations (5 min)
 
