@@ -2,7 +2,7 @@
 # Developer's Blueprint to Building a Powerful Portfolio Project in 5 Days! #
 
 
-# Begin Your Journey to Building a Standout Portfolio Project!
+## Begin Your Journey to Building a Standout Portfolio Project!
 
 Welcome Aboard
 
