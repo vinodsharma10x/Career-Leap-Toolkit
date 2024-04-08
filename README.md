@@ -52,10 +52,10 @@ Click [here for planning templates](https://github.com/vinodsharma10x/Career-Lea
 Click [here for note-taking templates](https://github.com/vinodsharma10x/Career-Leap-Toolkit/tree/main/Planning%20Templates)
 
 ## Resourses 
-### [Career Coaches Directory](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20Career%20Coaches.md)
+- [Career Coaches Directory](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20Career%20Coaches.md)
 A curated list of experienced career coaches who guide developers.
 
-### [Developer-Focused YouTube Channels](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20YouTube%20Channels.md)
+- [Developer-Focused YouTube Channels](https://github.com/vinodsharma10x/Career-Leap-Toolkit/blob/main/Developer%20Focused%20YouTube%20Channels.md)
 Handpicked channels that offer valuable tech insights, tutorials, and career advice.
 
 ## And More (coming soon)
