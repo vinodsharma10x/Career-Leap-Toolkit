@@ -67,3 +67,5 @@ This toolkit is a collaborative effort, and your contributions make it great. Pl
 Let's Leap Together!
 
 Embark on your career journey with the Career Leap Toolkit as your companion. 
+
+If you have any questions or need further assistance, feel free to reach out at @VinodSharma10x or email at vinod@vinodsharma.co. Let's embark on this journey together and unlock the doors to new opportunities.
