@@ -1,3 +1,5 @@
+Read this article at https://hello.vinodsharma.co/posts/behind-the-scenes-of-building-a-grocery-management-system-for-portfolio
+
 I'll dive deep into our journey and share how we started, picked a project, selected the tech stack, and reached this point.
 
 
