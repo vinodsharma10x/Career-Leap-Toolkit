@@ -22,7 +22,7 @@ This course is your first step towards transforming your online presence in the 
 
 Click [here to build your online presence in 5 days](https://github.com/vinodsharma10x/Career-Leap-Toolkit/tree/main/Build%20Online%20Presence%20in%205%20Days)
 
-## Build Online Presence in 5 Days
+## Build Solid Project in 5 Days
 
 Over the five days, you’ll embark on a path to enhance your technical skills and create a project that will be a beacon in your portfolio, shining a light on your capabilities to potential employers and collaborators. This course is designed with one goal in mind: to guide you in building a portfolio project that stands out. Here’s a sneak peek of what we’ll cover:
 
