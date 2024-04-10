@@ -120,10 +120,12 @@ Please check out the "Project Idea" document for the project ideas.
 
 ## Selected project <<Project Name>>
 
-Break your project into smaller feature sets and areas of work. Then, create application flow for example, each web application has a login flow, homepage, and flow for each feature.
+Break your project into smaller feature sets and areas of work. Then, create the application flow. 
 
-  
-![[Pasted image 20240410062946.png]]
+For example, each web application has a login flow, homepage, and flow for each feature.
+
+
+![](https://lh7-us.googleusercontent.com/nSMix-bHXd-3JjEcYjvbmRgoxHABJXNtjF-oy0ZYzoXfJ-EDPvy0tUSOyl_ietNH7OnrfusCzfhAYVQopMGYbLq_iIIajctyLmB-QOeHEhFDZWzULt0jrvh5Xrl0AOO_DycH2Xw8DiL25mrw2fL00Z4)
 
   
 
