@@ -6,11 +6,9 @@
 
 1. Discord community - [https://discord.gg/bwtDYBTZ](https://discord.gg/bwtDYBTZ) 
 
-2. Video recording of our meetings - [https://www.youtube.com/playlist?list=PLRGz15CKCZ4oXGm2gS7ajbqIZy1HgHf0j](https://www.youtube.com/playlist?list=PLRGz15CKCZ4oXGm2gS7ajbqIZy1HgHf0j) 
+3. High-Level Plan/Steps (this page)
 
-3. High-Level Plan/Steps (this Google doc) - [https://docs.google.com/document/d/1W_ij3p2bn0w3sbTTrGuM7N2p6-LV6H146w9FMXM4UoY/edit?usp=sharing](https://docs.google.com/document/d/1W_ij3p2bn0w3sbTTrGuM7N2p6-LV6H146w9FMXM4UoY/edit?usp=sharing) 
-
-4. Figma - [https://www.figma.com/file/ewbu3PO5W2dLz9HHWdB2hH/Tim-Kunal?type=whiteboard&node-id=0%3A1&t=1KWoZ5jomWW36kbf-1](https://www.figma.com/file/ewbu3PO5W2dLz9HHWdB2hH/Tim-Kunal?type=whiteboard&node-id=0%3A1&t=1KWoZ5jomWW36kbf-1) 
+4. Figma  
 
 5. GitHub
 
