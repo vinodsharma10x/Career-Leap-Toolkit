@@ -3,6 +3,7 @@
 You’ve just taken the first step towards transforming your online presence, and I couldn’t be more excited to have you on board for building a robust online presence in the next 5 days.
 Over the next five days, you’ll uncover the strategies and tools that will help you showcase your talents, connect with like-minded professionals, and unlock new opportunities.
 Here’s a sneak peek of what we’ll cover:
+
 - Day 1—We’ll lay the groundwork for building a powerful online presence. 
 - Day 2—Dive deep into optimizing LinkedIn, GitHub, and your portfolio site to showcase your expertise.
 - Day 3—Learn how to create and curate content that resonates and engages. Share your expertise and engage with your community. 
