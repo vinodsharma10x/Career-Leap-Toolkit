@@ -117,3 +117,23 @@ Week 13 (12/24 to 12/30)
 
 - [Insert your weekly action/outcome 1]
 - [Insert your weekly action/outcome 2]
+
+## Step 6: Identify your daily actions
+
+Instructions: Goals are achieved through consistent daily actions. In the above steps, you built a solid plan, but a good strategy only works if you take consistent action. There are several strategies to apply when it comes to taking consistent action. The best one is to build a habit by taking daily actions. When you turn your actions into habits, you get consistency.
+
+If we go back to our example of losing 15 pounds, you should fix a time for drinking water. Some people drink a few glasses of water right after they wake up. A few others fill a big gallon bottle every morning and finish it by the time they go to bed. Similarly, fix a time for the exercise. Go deeper and figure out how you will do these daily actions. Following is an example.
+
+- I will buy a 1-gallon water bottle. I will fill it every morning and drink it by the end of the day.
+- I will hire a meal planner who will provide a daily meal plan.
+- I will only eat out once a week.
+- I will make a weekly workout plan on Sunday. Will combine cardio, strength and weight exercise. Exercise days will be Monday - Friday.
+- I will log my weight daily in the morning.
+
+Following are my daily actions.
+
+- [Insert your daily action/outcome 1]
+- [Insert your daily action/outcome 2]
+- [Insert your daily action/outcome 3]
+
+Instructions: Congratulations!! You have completed your quarterly planning. Now, copy your goals and action plan into Part 1 (Quarterly Plan page).
