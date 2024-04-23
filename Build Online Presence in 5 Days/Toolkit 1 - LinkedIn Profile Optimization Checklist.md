@@ -43,7 +43,8 @@ Follow companies, influencers, and groups in your industry to show your engageme
 Personalize your LinkedIn profile URL to make it easier to share and more memorable. Ideally, use your name if it’s available.
 11. Privacy Settings
 Review your privacy settings to control what’s visible to your network and the public.
-Final Tips
+
+**Final Tips**
 Regularly update your profile to reflect your latest achievements and roles.
 To increase your visibility, engage with your network by sharing content, commenting on posts, and participating in discussions.
 This checklist is designed to guide you through each step of optimizing your LinkedIn profiles, ensuring they present themselves in the best possible light to potential employers, collaborators, and clients.
