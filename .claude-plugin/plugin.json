@@ -1,0 +1,8 @@
+{
+  "name": "career-leap-toolkit",
+  "version": "1.0.0",
+  "description": "Career development tools for developers and product managers — AI-powered resume builder, career guides, and planning templates.",
+  "author": "Vinod Sharma",
+  "homepage": "https://github.com/vinodsharma10x/Career-Leap-Toolkit",
+  "skills": ["skills/resume"]
+}

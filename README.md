@@ -8,6 +8,37 @@ The Career Leap Toolkit is here to support you on your career journey. Whether i
 
 ## What's Inside
 
+### AI-Powered Resume Builder (Claude Code Skill)
+
+Build a professional, ATS-optimized resume through a guided conversation with Claude. Works for developers and product managers.
+
+**Features:**
+- Upload your existing resume (PDF/DOCX) or LinkedIn PDF — Claude reads and improves it
+- Share your GitHub username — Claude pulls your repos, languages, and projects automatically
+- Answer targeted interview questions — Claude writes your resume from scratch
+- Combine multiple sources for the best result
+- Tailors to specific job descriptions with keyword optimization
+- Exports as Markdown, PDF, and Word (DOCX)
+- No fluff — focuses on real achievements, not buzzword soup
+
+**Install:**
+```bash
+# As a Claude Code plugin
+/plugin marketplace add vinodsharma10x/Career-Leap-Toolkit
+/plugin install resume@career-leap-toolkit
+
+# Or copy manually
+git clone https://github.com/vinodsharma10x/Career-Leap-Toolkit.git
+cp -r Career-Leap-Toolkit/skills/resume ~/.claude/skills/
+cd ~/.claude/skills/resume/scripts && npm install
+```
+
+**Use:** Type `/resume` in Claude Code to start.
+
+---
+
+### Guides & Templates
+
 Step-by-step playbooks on essential topics such as building an impactful online presence, crafting a standout portfolio website, and creating compelling projects for your portfolio. Plus, examples of exemplary portfolios for inspiration.
 
 ## Build Online Presence in 5 Days

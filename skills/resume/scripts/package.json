@@ -1,0 +1,16 @@
+{
+  "name": "resume-skill-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Helper scripts for the Resume Builder Claude Code skill",
+  "scripts": {
+    "setup": "npm install"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0",
+    "puppeteer": "^23.0.0",
+    "docx": "^9.5.0",
+    "marked": "^15.0.0"
+  }
+}
